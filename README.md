@@ -1,4 +1,4 @@
-# Olá, me chamo *João Roberto*! 👋
+# Olá, me chamo **João Roberto**! 👋
 
 Sou aluno do curso de Análise e Desenvolvimento de Sistemas no IFRN-CNAT, atualmente no 4º período. Sou apaixonado por tecnologia e estou sempre em busca de aprender novas habilidades e ferramentas.
 
