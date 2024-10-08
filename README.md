@@ -28,15 +28,15 @@ Sou aluno do curso de Análise e Desenvolvimento de Sistemas no IFRN-CNAT, atual
 - Desenvolvimento Web
 - Programação Orientada a Objetos (POO)
 - Estruturas de Dados
-- Algoritmos
+- Algoritmos 
 
 ## Aprendizado Autodidata
 
 Acredito que o aprendizado nunca para. Sou um aprendiz autodidata e já conquistei algumas habilidades por conta própria, como:
 
-- Andar de skate
-- Surfar
-- Tocar ukulele
+- Andar de skate 🛹
+- Surfar 🏄🏻
+- Tocar ukulele 🎶
 
 Estou sempre em busca de novos desafios e oportunidades para crescer tanto pessoalmente quanto profissionalmente. Se você quiser conversar sobre tecnologia, projetos ou compartilhar conhecimento, fique à vontade para me contatar!
 
