@@ -37,6 +37,7 @@ Acredito que o aprendizado nunca para. Sou um aprendiz autodidata e já conquist
 - Andar de skate 🛹
 - Surfar 🏄🏻
 - Tocar ukulele 🎶
+- Puzzles 🧩
 
 Estou sempre em busca de novos desafios e oportunidades para crescer tanto pessoalmente quanto profissionalmente. Se você quiser conversar sobre tecnologia, projetos ou compartilhar conhecimento, fique à vontade para me contatar!
 
