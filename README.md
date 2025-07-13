@@ -45,3 +45,9 @@ Estou sempre em busca de novos desafios e oportunidades para crescer tanto pesso
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoRobert0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-roberto-535584314/)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoRobert0&show_icons=true&theme=dark&hide_border=true" height="150" />
+  <img width="12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoRobert0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
